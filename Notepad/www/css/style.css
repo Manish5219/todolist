@@ -1,0 +1,16 @@
+.customIconSound {
+    font-size: 332px;
+    font-weight: bold;   
+}
+.customIconSoundButton
+{
+    font-size: 532px;
+    font-weight: bold; 
+}
+.scroll-content{
+    background: url("../img/ionic-go-to-background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+/*background-color:#0072bc;*/
+}
